@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Example-test</title>
-    <link>http://a47dg1.github.io/</link>
+    <link>http://a47dg1.github.io/hugotest/</link>
     <description>Recent content on Example-test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plane</title>
-      <link>http://a47dg1.github.io/post/my-first-post/</link>
+      <link>http://a47dg1.github.io/hugotest/post/my-first-post/</link>
       <pubDate>Thu, 04 Nov 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://a47dg1.github.io/post/my-first-post/</guid>
+      <guid>http://a47dg1.github.io/hugotest/post/my-first-post/</guid>
       <description>Read instructions here</description>
     </item>
     
     <item>
       <title>My Second post</title>
-      <link>http://a47dg1.github.io/post/my-second-post/</link>
+      <link>http://a47dg1.github.io/hugotest/post/my-second-post/</link>
       <pubDate>Sun, 17 Oct 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://a47dg1.github.io/post/my-second-post/</guid>
+      <guid>http://a47dg1.github.io/hugotest/post/my-second-post/</guid>
       <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
 Зачем? Да просто так.
 Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.
@@ -30,10 +30,10 @@ HTML-страница отвечает за «мясо» проекта: над�
     
     <item>
       <title>My third post</title>
-      <link>http://a47dg1.github.io/post/blog/my-third-post/</link>
+      <link>http://a47dg1.github.io/hugotest/post/blog/my-third-post/</link>
       <pubDate>Fri, 17 Sep 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://a47dg1.github.io/post/blog/my-third-post/</guid>
+      <guid>http://a47dg1.github.io/hugotest/post/blog/my-third-post/</guid>
       <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
 Зачем? Да просто так.
 Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.
@@ -42,10 +42,10 @@ HTML-страница отвечает за «мясо» проекта: над�
     
     <item>
       <title>About</title>
-      <link>http://a47dg1.github.io/about/</link>
+      <link>http://a47dg1.github.io/hugotest/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://a47dg1.github.io/about/</guid>
+      <guid>http://a47dg1.github.io/hugotest/about/</guid>
       <description></description>
     </item>
     

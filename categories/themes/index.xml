@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>themes on Example-test</title>
-    <link>http://a47dg1.github.io/categories/themes/</link>
+    <link>http://a47dg1.github.io/hugotest/categories/themes/</link>
     <description>Recent content in themes on Example-test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/hugotest/categories/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second post</title>
-      <link>http://a47dg1.github.io/post/my-second-post/</link>
+      <link>http://a47dg1.github.io/hugotest/post/my-second-post/</link>
       <pubDate>Sun, 17 Oct 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://a47dg1.github.io/post/my-second-post/</guid>
+      <guid>http://a47dg1.github.io/hugotest/post/my-second-post/</guid>
       <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
 Зачем? Да просто так.
 Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.
