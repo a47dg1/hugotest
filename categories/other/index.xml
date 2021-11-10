@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>other on Example-test</title>
-    <link>http://example.org/categories/other/</link>
+    <link>http://a47dg1.github.io/categories/other/</link>
     <description>Recent content in other on Example-test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://example.org/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/categories/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My third post</title>
-      <link>http://example.org/post/blog/my-third-post/</link>
+      <link>http://a47dg1.github.io/post/blog/my-third-post/</link>
       <pubDate>Fri, 17 Sep 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://example.org/post/blog/my-third-post/</guid>
+      <guid>http://a47dg1.github.io/post/blog/my-third-post/</guid>
       <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
 Зачем? Да просто так.
 Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.

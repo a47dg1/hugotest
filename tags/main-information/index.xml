@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>main information on Example-test</title>
-    <link>http://example.org/tags/main-information/</link>
+    <link>http://a47dg1.github.io/tags/main-information/</link>
     <description>Recent content in main information on Example-test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://example.org/tags/main-information/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/tags/main-information/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plane</title>
-      <link>http://example.org/post/my-first-post/</link>
+      <link>http://a47dg1.github.io/post/my-first-post/</link>
       <pubDate>Thu, 04 Nov 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://example.org/post/my-first-post/</guid>
+      <guid>http://a47dg1.github.io/post/my-first-post/</guid>
       <description>Read instructions here</description>
     </item>
     

@@ -2,26 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Example-test</title>
-    <link>http://example.org/categories/</link>
+    <link>http://a47dg1.github.io/categories/</link>
     <description>Recent content in Categories on Example-test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://a47dg1.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plane</title>
-      <link>http://example.org/categories/plane/</link>
+      <link>http://a47dg1.github.io/categories/plane/</link>
       <pubDate>Thu, 04 Nov 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://example.org/categories/plane/</guid>
+      <guid>http://a47dg1.github.io/categories/plane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>examples</title>
+      <link>http://a47dg1.github.io/categories/examples/</link>
+      <pubDate>Sun, 17 Oct 2021 15:29:31 +0400</pubDate>
+      
+      <guid>http://a47dg1.github.io/categories/examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>http://a47dg1.github.io/categories/themes/</link>
+      <pubDate>Sun, 17 Oct 2021 15:29:31 +0400</pubDate>
+      
+      <guid>http://a47dg1.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>other</title>
-      <link>http://example.org/categories/other/</link>
+      <link>http://a47dg1.github.io/categories/other/</link>
       <pubDate>Fri, 17 Sep 2021 15:29:31 +0400</pubDate>
       
-      <guid>http://example.org/categories/other/</guid>
+      <guid>http://a47dg1.github.io/categories/other/</guid>
       <description></description>
     </item>
     
