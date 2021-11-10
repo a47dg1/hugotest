@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Example-test</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Example-test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Nov 2021 15:29:31 +0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plane</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Thu, 04 Nov 2021 15:29:31 +0400</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>Read instructions here</description>
+    </item>
+    
+    <item>
+      <title>My third post</title>
+      <link>http://example.org/post/blog/my-third-post/</link>
+      <pubDate>Fri, 17 Sep 2021 15:29:31 +0400</pubDate>
+      
+      <guid>http://example.org/post/blog/my-third-post/</guid>
+      <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
+Зачем? Да просто так.
+Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.
+HTML-страница отвечает за «мясо» проекта: надписи, заголовки, подключение звуков и сборку всего проекта в одной точке. Но страница сама по себе ничего не сумеет: мы просто разместим на ней нужные блоки, а вся анимация и поведение задаются в двух других файлах.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
